@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "This landing page for blog ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-FEU-Assignments/project-exam-1-nexnic.git"
+  },
+  "author": "Kent Erik Hole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-FEU-Assignments/project-exam-1-nexnic/issues"
+  },
+  "homepage": "https://github.com/Noroff-FEU-Assignments/project-exam-1-nexnic#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
